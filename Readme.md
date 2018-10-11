@@ -24,7 +24,7 @@ Example of dockerized spring-boot app.
 ## Authors & Maintainer
 ====================
 
-BHNtools.
+BHNtools-2018.
 
 ## License
 ========
